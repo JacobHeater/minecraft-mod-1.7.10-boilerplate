@@ -5,8 +5,9 @@ A boilerplate repository for Minecraft 1.7.10 modding.
 ## Setup
 
 1. Download [JDK 8](https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html).
-2. Run ` ./gradlew clean setDecompWorkspace eclipse` in your working directory.
-3. You should now be able to import the Gradle project in Eclipse.
+2. Unzip the `minecraft-1.7.10-grade-files.zip` and copy the files to your desired project destination.
+3. Run `./gradlew clean setDecompWorkspace eclipse` in your working directory.
+4. You should now be able to import the Gradle project in Eclipse.
 
 ## Possible Issues
 
