@@ -22,3 +22,4 @@ sudo cp /Library/Java/JavaVirtualMachines/jdk1.8.0_351.jdk/Contents/Home/lib/too
 ## Helpful Links and Credits
 
 1. Credit to this person for helping me solve some problems: https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/modification-development/3166919-help-how-to-compile-a-1-7-10-forge-mod-in-late
+2. Awesome Stack Overflow answer that unblocked me: https://stackoverflow.com/a/65211651
