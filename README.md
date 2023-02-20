@@ -19,3 +19,6 @@ to the `JAVA_HOME` path. You can solve this by running the following command.
 ```bash
 sudo cp /Library/Java/JavaVirtualMachines/jdk1.8.0_351.jdk/Contents/Home/lib/tools.jar "/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/"
 ```
+## Helpful Links and Credits
+
+1. Credit to this person for helping me solve some problems: https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/modification-development/3166919-help-how-to-compile-a-1-7-10-forge-mod-in-late
